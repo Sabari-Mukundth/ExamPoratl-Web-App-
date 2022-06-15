@@ -1,7 +1,7 @@
 {
     "quiz": {
         "Id": 2,
-        "name": "C# and .Net Framework",
+        "name": "General Knowlege",
         "description": "GK Questions(contains general questions)"
     },
     "config":{
