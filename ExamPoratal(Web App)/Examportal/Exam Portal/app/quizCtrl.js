@@ -1,8 +1,5 @@
 ﻿var quizCtrl = function ($scope, $http, helper) {
     $scope.quizName = 'data/csharp.js';
-
-    //Note: Only those configs are functional which is documented at: http://www.codeproject.com/Articles/860024/Quiz-Application-in-AngularJs
-    // Others are work in progress.
     $scope.defaultConfig = {
         'allowBack': true,
         'allowReview': true,
